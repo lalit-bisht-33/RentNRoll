@@ -30,7 +30,7 @@
 - Viewable in Excel
 
 ---
-
+```bash
 ## 📂 Folder Structure
 
 QuickRent/
@@ -43,7 +43,7 @@ QuickRent/
     ├── camry.jpg
     ├── honda.jpg
     └── thar.jpg
-
+```
 
 ### ⚙️ How to Run
 Install JDK (Java 8+)
