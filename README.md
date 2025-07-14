@@ -58,9 +58,13 @@ java Main
 
 ## Technologies Used
 
--Java SE (Core Java)
--File I/O (FileWriter, Scanner, File)
--Desktop.getDesktop().open() for image preview
--CSV for feedback storage
--Simple class-based architecture (OOP)
+*Java SE (Core Java)*
+
+*File I/O (FileWriter, Scanner, File)*
+
+*Desktop.getDesktop().open() for image preview*
+
+*CSV for feedback storage*
+
+*Simple class-based architecture (OOP)*
 
